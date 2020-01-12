@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Wall -std=c++11  -shared -Wl,-soname,libtrajectory_controller.so -o /home/mati/Documents/FinalRobotica2018-master/catkin_ws/devel/.private/lazo_abierto/lib/libtrajectory_controller.so CMakeFiles/trajectory_controller.dir/src/TrajectoryFollower.cpp.o 

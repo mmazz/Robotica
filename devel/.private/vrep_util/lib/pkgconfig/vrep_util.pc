@@ -1,0 +1,8 @@
+prefix=/home/mati/Documents/FinalRobotica2018-master/catkin_ws/devel/.private/vrep_util
+
+Name: vrep_util
+Description: Description of vrep_util
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mati/Documents/FinalRobotica2018-master/catkin_ws/devel/.private/vrep_util/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/mati/Documents/FinalRobotica2018-master/catkin_ws/devel/.private/lazo_cerrado
+
+Name: lazo_cerrado
+Description: Description of lazo_cerrado
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mati/Documents/FinalRobotica2018-master/catkin_ws/devel/.private/lazo_cerrado/lib 
+Requires: roscpp tf2_ros lazo_abierto

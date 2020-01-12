@@ -1,0 +1,17 @@
+(cl:defpackage robmovil_msgs-msg
+  (:use )
+  (:export
+   "<ENCODERTICKS>"
+   "ENCODERTICKS"
+   "<LANDMARK>"
+   "LANDMARK"
+   "<LANDMARKARRAY>"
+   "LANDMARKARRAY"
+   "<MULTIENCODERTICKS>"
+   "MULTIENCODERTICKS"
+   "<TRAJECTORY>"
+   "TRAJECTORY"
+   "<TRAJECTORYPOINT>"
+   "TRAJECTORYPOINT"
+  ))
+

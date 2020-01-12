@@ -1,0 +1,8 @@
+prefix=/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install
+
+Name: modelo_diferencial
+Description: Description of modelo_diferencial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install/lib 
+Requires: roscpp

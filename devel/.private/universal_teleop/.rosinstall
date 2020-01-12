@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mati/Documents/FinalRobotica2018-master/catkin_ws/devel/.private/universal_teleop/setup.sh

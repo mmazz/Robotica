@@ -1,0 +1,8 @@
+prefix=/home/mati/Documents/FinalRobotica2018-master/catkin_ws/devel/.private/robmovil_ekf
+
+Name: robmovil_ekf
+Description: Description of robmovil_ekf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mati/Documents/FinalRobotica2018-master/catkin_ws/devel/.private/robmovil_ekf/lib 
+Requires: roscpp imu_laser

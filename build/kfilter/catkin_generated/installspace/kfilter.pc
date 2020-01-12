@@ -1,0 +1,8 @@
+prefix=/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install
+
+Name: kfilter
+Description: Description of kfilter
+Version: 0.0.0
+Cflags: -I/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install/include
+Libs: -L/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install/lib -lkfilter
+Requires: 

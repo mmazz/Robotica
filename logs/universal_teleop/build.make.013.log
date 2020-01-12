@@ -1,0 +1,14 @@
+[  0%] Built target _universal_teleop_generate_messages_check_deps_Event
+[  0%] Built target _universal_teleop_generate_messages_check_deps_Control
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[ 13%] Built target universal_teleop_generate_messages_cpp
+[ 26%] Built target universal_teleop_generate_messages_nodejs
+[ 46%] Built target universal_teleop_generate_messages_py
+[ 60%] Built target universal_teleop_generate_messages_lisp
+[ 80%] Built target universal_teleop_generate_messages_eus
+[ 80%] Built target universal_teleop_generate_messages
+[100%] Built target universal_teleop

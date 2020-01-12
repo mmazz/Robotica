@@ -1,0 +1,8 @@
+prefix=/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install
+
+Name: keyboard
+Description: Description of keyboard
+Version: 0.1.2
+Cflags: -I/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install/include
+Libs: -L/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install/lib 
+Requires: roscpp std_msgs message_runtime

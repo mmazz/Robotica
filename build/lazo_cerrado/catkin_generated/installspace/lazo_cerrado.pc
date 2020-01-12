@@ -1,0 +1,8 @@
+prefix=/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install
+
+Name: lazo_cerrado
+Description: Description of lazo_cerrado
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install/lib 
+Requires: roscpp tf2_ros lazo_abierto

@@ -1,0 +1,4 @@
+[01m[K/home/mati/Documents/FinalRobotica2018-master/catkin_ws/src/lazo_cerrado/src/KinematicPositionController.cpp:[m[K In member function ‘[01m[Kbool KinematicPositionController::getPursuitBasedGoal(const ros::Time&, double&, double&, double&)[m[K’:
+[01m[K/home/mati/Documents/FinalRobotica2018-master/catkin_ws/src/lazo_cerrado/src/KinematicPositionController.cpp:203:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kwpoint_a[m[K’ [-Wunused-variable]
+     double wpoint_a = tf2::getYaw(wpoint.transform.rotation);
+[01;32m[K            ^[m[K

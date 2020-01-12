@@ -1,0 +1,8 @@
+prefix=/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install
+
+Name: lazo_abierto
+Description: Description of lazo_abierto
+Version: 0.0.0
+Cflags: -I/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install/include
+Libs: -L/home/mati/Documents/FinalRobotica2018-master/catkin_ws/install/lib -ltrajectory_controller
+Requires: roscpp

@@ -1,0 +1,9 @@
+[ 40%] Built target logger
+[35m[1mScanning dependencies of target trajectory_follower[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/trajectory_follower.dir/src/KinematicPositionController.cpp.o[0m
+[01m[K/home/mati/Documents/FinalRobotica2018-master/catkin_ws/src/lazo_cerrado/src/KinematicPositionController.cpp:[m[K In member function ‘[01m[Kbool KinematicPositionController::getPursuitBasedGoal(const ros::Time&, double&, double&, double&)[m[K’:
+[01m[K/home/mati/Documents/FinalRobotica2018-master/catkin_ws/src/lazo_cerrado/src/KinematicPositionController.cpp:204:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kwpoint_a[m[K’ [-Wunused-variable]
+     double wpoint_a = tf2::getYaw(wpoint.transform.rotation);
+[01;32m[K            ^[m[K
+[ 80%] [32m[1mLinking CXX executable /home/mati/Documents/FinalRobotica2018-master/catkin_ws/devel/.private/lazo_cerrado/lib/lazo_cerrado/trajectory_follower[0m
+[100%] Built target trajectory_follower
